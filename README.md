@@ -24,15 +24,19 @@ It demonstrates routing, navigation, layouts, nested routes, and multiple page h
 
 ### 🏠 Home Page
 
-### 📝 Blog Page
+![Home Page](./public/image1.png)
 
+### 📝 Blog Page
+![Blog Page](./public/image3.png)
 ### 📞 Contact Page
 
 
 ### 👤 User Page
 
-### ℹ️ About Page (Used as Learning Dashboard)
+![User Page](./public/image4.png)
 
+### ℹ️ About Page (Used as Learning Dashboard)
+![About Dashboard](./public/image2.png)
 The About page is used to practice **Nested Routing**.  
 Inside this page, sidebar navigation is created to load different sections.
 
