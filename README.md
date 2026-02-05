@@ -1,6 +1,6 @@
 # 🚀 React Router Learning Day
 
-This project is built while learning **React Router** concepts step-by-step.  
+This project(Basic) is built while learning **React Router** concepts step-by-step.  
 It demonstrates routing, navigation, layouts, nested routes, and multiple page handling inside a React application.
 
 ---
@@ -20,61 +20,55 @@ It demonstrates routing, navigation, layouts, nested routes, and multiple page h
 ✅ Scrollable Content Layout  
 ✅ Multi Page UI Structure  
 
----
-
-## 🖥️ Pages Included
+## 📄 Pages Implemented
 
 ### 🏠 Home Page
-- Displays overview content  
-- Shows sample data cards  
-- Acts as landing page  
-
----
 
 ### 📝 Blog Page
-- Displays multiple blog cards  
-- Each blog contains:
-  - Image  
-  - Title  
-  - Date & Time  
-  - Description  
-
----
 
 ### 📞 Contact Page
-- Fully functional contact form  
-- Input validation UI  
-- Professional form layout  
+
+
+### 👤 User Page
+
+### ℹ️ About Page (Used as Learning Dashboard)
+
+The About page is used to practice **Nested Routing**.  
+Inside this page, sidebar navigation is created to load different sections.
+
+#### Inside About Page:
+
+- Overview Page  
+- Company Page  
+- Team Page  
+- Career Page  
+
+This section helps in understanding how `Outlet` works in React Router.
 
 ---
 
-### 💼 Career Page
-- Shows job opportunities  
-- Hiring details  
-- Skills requirement section  
-- Company benefits  
+## 📚 React Router Concepts Practiced
+
+- BrowserRouter
+- Routes & Route
+- NavLink
+- useNavigate
+- useLocation
+- Nested Routes
+- Outlet Layout System
 
 ---
 
-### 🏢 Dashboard Section
-- Sidebar Navigation  
-- Nested Routing using `Outlet`  
-- Scrollable content area  
-- Includes:
-  - Overview Page  
-  - Stats Section  
-  - Company Details  
-
----
-
-## 🛠️ Tech Stack
+## 🛠️ Tech Used
 
 - React JS
 - React Router DOM
 - Tailwind CSS
 - Vite
 
----
+## 🌱 Learning Mindset
 
-## 📂 Project Structure
+This repository represents consistency, curiosity, and daily improvement.  
+Every concept here is part of a journey to build strong fundamentals step-by-step.
 
+Still learning. Still improving. Still building.
